@@ -1,2 +1,2 @@
 # SpaceGame
-Easy C++ game with elements of space
+Should be sfml installed for run game 
